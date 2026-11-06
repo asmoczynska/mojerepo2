@@ -1,5 +1,3 @@
-```mermaid
-
 sequenceDiagram
     title Przepływ uwierzytelniania SAML 2.0 Artifact Binding (WK)
 
